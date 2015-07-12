@@ -1,0 +1,32 @@
+/*
+Social Share by WP Dev Shed
+http://wordpress.org/plugins/social-share-by-wpdevshed/
+
+by: WP Dev Shed (http://wpdevshed.com/)
+
+License: GNU General Public License v2.0
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+/******************************************************************
+SHARE BUTTONS STYLES
+******************************************************************/
+.sswpds-social-wrap {
+	overflow: hidden;
+	margin-bottom: 30px;
+}
+	.sswpds-social-wrap:last-child {
+		padding-top: 10px;
+		margin-bottom: 15px;
+	}
+
+.sswpds-social-wrap a {
+	display: inline-block;
+	-webkit-box-sizing: border-box; 
+	-moz-box-sizing: border-box; 
+	-o-box-sizing: border-box; 
+	box-sizing: border-box;
+	margin-right: 10px;
+	text-decoration: none !important;
+}
+

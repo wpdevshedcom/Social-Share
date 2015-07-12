@@ -1,4 +1,4 @@
-# Social Share by WP Dev Shed
+=== Social Share by WP Dev Shed ===
 Contributors: WP Dev Shed
 Tags: button, facebook, share, social, theme, twitter
 Requires at least: 3.2
@@ -9,11 +9,11 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Adds Facebook and Twitter social share buttons to your blog posts.
 
-# Description
+== Description ==
 
 The easy and simple way to share you blog posts via Facebook and Twitter. Just activate the plugin and go to Appearance > Customize to set your preferences for display. You can choose to display before and/or after content on pages and posts. You can also choose to display the share buttons anywhere in a page or post using the short code [wpdev_social_share]
 
-# Installation
+== Installation ==
 1. Download the plugin.
 2. Extract the folder.
 3. Upload the 'social-share-by-wp-dev-shed' folder to the '/wp-content/plugins/' directory.
@@ -21,10 +21,10 @@ The easy and simple way to share you blog posts via Facebook and Twitter. Just a
 5. Go to Appearance > Customize to change settings
 6. Or use the short code [wpdev_social_share] to manually display share buttons anywhere in a page or post
 
-# Screenshots
+== Screenshots ==
 1. screenshot-1.png displays the Facebook and Twitter share buttons on an article
 
-# Changelog
+== Changelog ==
 
 = 1.5 =
 * Updated Customizer settings to set to off or disabled by default.
